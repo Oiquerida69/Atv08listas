@@ -1,0 +1,7 @@
+C:\Users\wendell.mcardoso\source\repos\Atv08listaserepetiçoes\Atv08listaserepetiçoes\bin\Debug\Atv08listaserepetiçoes.exe.config
+C:\Users\wendell.mcardoso\source\repos\Atv08listaserepetiçoes\Atv08listaserepetiçoes\bin\Debug\Atv08listaserepetiçoes.exe
+C:\Users\wendell.mcardoso\source\repos\Atv08listaserepetiçoes\Atv08listaserepetiçoes\bin\Debug\Atv08listaserepetiçoes.pdb
+C:\Users\wendell.mcardoso\source\repos\Atv08listaserepetiçoes\Atv08listaserepetiçoes\obj\Debug\Atv08listaserepetiçoes.csproj.AssemblyReference.cache
+C:\Users\wendell.mcardoso\source\repos\Atv08listaserepetiçoes\Atv08listaserepetiçoes\obj\Debug\Atv08listaserepetiçoes.csproj.CoreCompileInputs.cache
+C:\Users\wendell.mcardoso\source\repos\Atv08listaserepetiçoes\Atv08listaserepetiçoes\obj\Debug\Atv08listaserepetiçoes.exe
+C:\Users\wendell.mcardoso\source\repos\Atv08listaserepetiçoes\Atv08listaserepetiçoes\obj\Debug\Atv08listaserepetiçoes.pdb
